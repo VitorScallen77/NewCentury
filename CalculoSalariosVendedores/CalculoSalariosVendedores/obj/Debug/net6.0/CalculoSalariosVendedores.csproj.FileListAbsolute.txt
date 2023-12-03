@@ -1,0 +1,14 @@
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\bin\Debug\net6.0\CalculoSalariosVendedores.exe
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\bin\Debug\net6.0\CalculoSalariosVendedores.deps.json
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\bin\Debug\net6.0\CalculoSalariosVendedores.runtimeconfig.json
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\bin\Debug\net6.0\CalculoSalariosVendedores.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\bin\Debug\net6.0\CalculoSalariosVendedores.pdb
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\obj\Debug\net6.0\CalculoSalariosVendedores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\obj\Debug\net6.0\CalculoSalariosVendedores.AssemblyInfoInputs.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\obj\Debug\net6.0\CalculoSalariosVendedores.AssemblyInfo.cs
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\obj\Debug\net6.0\CalculoSalariosVendedores.csproj.CoreCompileInputs.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\obj\Debug\net6.0\CalculoSalariosVendedores.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\obj\Debug\net6.0\refint\CalculoSalariosVendedores.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\obj\Debug\net6.0\CalculoSalariosVendedores.pdb
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\obj\Debug\net6.0\CalculoSalariosVendedores.genruntimeconfig.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\CalculoSalariosVendedores\CalculoSalariosVendedores\obj\Debug\net6.0\ref\CalculoSalariosVendedores.dll

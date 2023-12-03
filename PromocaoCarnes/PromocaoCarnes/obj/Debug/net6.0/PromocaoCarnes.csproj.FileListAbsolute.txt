@@ -1,0 +1,14 @@
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\bin\Debug\net6.0\PromocaoCarnes.exe
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\bin\Debug\net6.0\PromocaoCarnes.deps.json
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\bin\Debug\net6.0\PromocaoCarnes.runtimeconfig.json
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\bin\Debug\net6.0\PromocaoCarnes.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\bin\Debug\net6.0\PromocaoCarnes.pdb
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\obj\Debug\net6.0\PromocaoCarnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\obj\Debug\net6.0\PromocaoCarnes.AssemblyInfoInputs.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\obj\Debug\net6.0\PromocaoCarnes.AssemblyInfo.cs
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\obj\Debug\net6.0\PromocaoCarnes.csproj.CoreCompileInputs.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\obj\Debug\net6.0\PromocaoCarnes.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\obj\Debug\net6.0\refint\PromocaoCarnes.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\obj\Debug\net6.0\PromocaoCarnes.pdb
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\obj\Debug\net6.0\PromocaoCarnes.genruntimeconfig.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\PromocaoCarnes\PromocaoCarnes\obj\Debug\net6.0\ref\PromocaoCarnes.dll

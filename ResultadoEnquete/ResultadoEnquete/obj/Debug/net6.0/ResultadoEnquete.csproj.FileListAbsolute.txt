@@ -1,0 +1,14 @@
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\bin\Debug\net6.0\ResultadoEnquete.exe
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\bin\Debug\net6.0\ResultadoEnquete.deps.json
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\bin\Debug\net6.0\ResultadoEnquete.runtimeconfig.json
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\bin\Debug\net6.0\ResultadoEnquete.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\bin\Debug\net6.0\ResultadoEnquete.pdb
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\obj\Debug\net6.0\ResultadoEnquete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\obj\Debug\net6.0\ResultadoEnquete.AssemblyInfoInputs.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\obj\Debug\net6.0\ResultadoEnquete.AssemblyInfo.cs
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\obj\Debug\net6.0\ResultadoEnquete.csproj.CoreCompileInputs.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\obj\Debug\net6.0\ResultadoEnquete.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\obj\Debug\net6.0\refint\ResultadoEnquete.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\obj\Debug\net6.0\ResultadoEnquete.pdb
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\obj\Debug\net6.0\ResultadoEnquete.genruntimeconfig.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\ResultadoEnquete\ResultadoEnquete\obj\Debug\net6.0\ref\ResultadoEnquete.dll

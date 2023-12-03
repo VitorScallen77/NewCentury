@@ -1,0 +1,14 @@
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\bin\Debug\net6.0\JogoAdivinhacao.exe
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\bin\Debug\net6.0\JogoAdivinhacao.deps.json
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\bin\Debug\net6.0\JogoAdivinhacao.runtimeconfig.json
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\bin\Debug\net6.0\JogoAdivinhacao.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\bin\Debug\net6.0\JogoAdivinhacao.pdb
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net6.0\JogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net6.0\JogoAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net6.0\JogoAdivinhacao.AssemblyInfo.cs
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net6.0\JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net6.0\JogoAdivinhacao.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net6.0\refint\JogoAdivinhacao.dll
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net6.0\JogoAdivinhacao.pdb
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net6.0\JogoAdivinhacao.genruntimeconfig.cache
+C:\Users\scall\OneDrive\Documentos\TesteGERAL\ERPNewCentury\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net6.0\ref\JogoAdivinhacao.dll
